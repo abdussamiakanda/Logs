@@ -9,4 +9,4 @@
 
     - Go to the [Firebase Console](https://console.firebase.google.com/u/0/)
     - Click on `Add project`
-    ![Screenshot 1](./../assets/image/screenshots/Screenshot-1.png) 
+    ![Screenshot 1](./assets/image/screenshots/Screenshot-1.png) 
