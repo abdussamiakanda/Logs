@@ -1,16 +1,16 @@
-const myname = 'Sabera';
-const myemail = 'fermionku@gmail.com';
+const myname = 'Your Name';
+const myemail = 'yourname@gmail.com';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD2FLUPlMF4tVFBPtIea1AUzM6RgWeaZ1o",
-  authDomain: "life-abdussamiakanda.firebaseapp.com",
-  databaseURL: "https://life-abdussamiakanda-default-rtdb.firebaseio.com",
-  projectId: "life-abdussamiakanda",
-  storageBucket: "life-abdussamiakanda.appspot.com",
-  messagingSenderId: "699844726358",
-  appId: "1:699844726358:web:98bb59195a9e33354bf5f7",
-  measurementId: "G-S411V27PLT"
+  apiKey: "ApiKey",
+  authDomain: "authDomain",
+  databaseURL: "databaseURL",
+  projectId: "projectId",
+  storageBucket: "life-abdussamiakanda.appspot.costorageBucket",
+  messagingSenderId: "messagingSenderId",
+  appId: "appId",
+  measurementId: "measurementId"
 };
   
 firebase.initializeApp(firebaseConfig);
